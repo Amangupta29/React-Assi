@@ -1,0 +1,144 @@
+/** @format */
+
+.App {
+	text-align: center;
+	background-color: black;
+}
+
+.list {
+	display: flex;
+	gap: 10px;
+	list-style: none;
+	justify-content: right;
+	margin: 0%;
+  align-items: center;
+  height: 60px;
+}
+.list-item{
+  display: flex;
+  gap: 6px;
+}
+
+.link {
+	color: grey;
+}
+.Layer1{
+  display: flex;
+  justify-items: center;
+}
+.head{
+  display: flex;
+  justify-content: space-between;
+ 
+}
+.button{
+  font-weight: bolder;
+  font-size: medium;
+  background-color: blue;
+  color: white;
+  height: 30px;
+  
+  border-radius: 12px;
+  width: 137px;
+  height: 52px;
+
+}
+.button:hover{
+  background-color: white;
+  color: black;
+}
+.header{
+  background-color: black;
+  color: white;
+  font-size: x-large;
+}
+.btn{
+display: flex;
+
+background-color: black;
+color: white;
+flex-direction: column;
+text-align: justify;
+align-items: center;
+justify-content: center;
+}
+
+.mail{
+  width: 900px;
+  height: 450px;
+}
+.button2{
+ 
+flex-direction: row;
+padding: 12px 11px;
+gap: 10px;
+width: 199px;
+height: 70px;
+background: #0070E7;
+border-radius: 12px;
+color: white;
+font-weight: bolder;
+font-size: medium;
+}
+.button2:hover{
+  background-color: white;
+  color: black;
+}
+.container{
+ background-color: #385170;
+ display: flex
+ 
+  
+}
+.header2{
+color: white;
+text-align: left;
+width: 39pc;
+padding-left: 70px;
+
+}
+.spn{
+  color: blue;
+}
+.ai{
+  /* align-self: right;
+  float: right ; */
+  width: 600px;
+}
+.v1{
+  border-left: 3px solid white;
+  height: 140px;
+}
+
+.hd{
+  margin-left: 45px;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.head-flex{
+  display: flex;
+  gap: 25px;
+  margin-left: 20px;
+  
+}
+
+.flexing{
+  display: flex;
+  flex-direction: column;
+ 
+}
+
+h4{
+  margin: 0%;
+}
+
+*{
+  background-color: black;
+}
+
+
